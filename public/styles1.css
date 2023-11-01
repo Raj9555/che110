@@ -19,7 +19,8 @@
 }
 #ol1{
     font-size:30px;
-    color: rgb(115, 39, 202);
+    color: rgb(255, 255, 255);
+    font-family: 'Sometype Mono', monospace;;
   }
   .next {
     background-color: #04AA6D;
@@ -41,3 +42,21 @@
  body{
     background-color: #aaaaac;
  }
+ .gb{color: black;
+  font-family:'Times New Roman', Times, serif;
+}
+.tp{color: black;
+  font-family:'Times New Roman', Times, serif;
+}
+.hf{
+  color: black;
+  font-family:'Times New Roman', Times, serif;
+}
+.ww{
+  color: black;
+  font-family:'Times New Roman', Times, serif;
+}
+.err{
+  color: black;
+  font-family:'Times New Roman', Times, serif;
+}
